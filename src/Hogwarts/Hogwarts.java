@@ -1,6 +1,5 @@
 package Hogwarts;
 
-
 public abstract class Hogwarts {
     private final int magicPower;
     private final int transgression;
