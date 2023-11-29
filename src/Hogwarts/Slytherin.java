@@ -1,5 +1,6 @@
 package Hogwarts;
 
+
 public class Slytherin extends Hogwarts {
     private int cunning;
     private int determination;

@@ -1,5 +1,6 @@
 package Hogwarts;
 
+
 public class Gryffindor extends Hogwarts {
     private int nobility;
     private int honor;
