@@ -4,7 +4,6 @@ import Hogwarts.Hufflepuff;
 import Hogwarts.Ravenclaw;
 import Hogwarts.Gryffindor;
 
-
 public class Main {
     public static void main(String[] args) {
         Slytherin Draco = new Slytherin("Драго", 8, 86, 45, 78, 78, 89, 67);

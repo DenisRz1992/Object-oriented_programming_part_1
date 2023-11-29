@@ -1,4 +1,4 @@
- ### IntelliJ IDEA ###
+### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
@@ -27,5 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.
+/Object-oriented programming part 1.iml
 /.idea/
 /Object-oriented programming part 1.iml
